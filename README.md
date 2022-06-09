@@ -37,7 +37,7 @@ Googleフォームにて回答が送信された時、Discordの所定のチャ�
   <li>Crtl + S</li>
   <li>Cmd + S</li>
 </ul>
-<img width="1120" alt="スクリーンショット 2022-06-09 15 41 00" src="https://user-images.githubusercontent.com/87808547/172781993-a0129c4a-2cc7-4118-95ac-fd006a72a34a.png">
+<img width="1120" alt="保存する" src="https://user-images.githubusercontent.com/87808547/172781993-a0129c4a-2cc7-4118-95ac-fd006a72a34a.png">
 
 ### 5 トリガー追加画面を開く
 保存できたら以下の順番でクリックし、トリガー追加画面を開いてください。<br>
@@ -45,7 +45,7 @@ Googleフォームにて回答が送信された時、Discordの所定のチャ�
   <li>左のサイドバーの中の「トリガー」(⏰時計マーク)をクリックしてください。</li>
   <li>画面右下の「＋ トリガーを追加」をクリックしてください。</li>
 </ol>
-<img width="1439" alt="スクリーンショット 2022-06-09 15 52 17" src="https://user-images.githubusercontent.com/87808547/172790329-e6e6b237-0a76-4b77-9369-7525fa07eb67.png">
+<img width="1439" alt="トリガー追加画面を開く" src="https://user-images.githubusercontent.com/87808547/172790329-e6e6b237-0a76-4b77-9369-7525fa07eb67.png">
 
 ### 6 トリガーを設定する
 トリガー追加画面を開けたら、以下のように設定し、「保存」を押してください。<br>
@@ -56,9 +56,15 @@ Googleフォームにて回答が送信された時、Discordの所定のチャ�
 イベントの種類を選択 : フォーム送信時
 エラー通知設定 : そのまま
 ```
-<img width="707" alt="スクリーンショット 2022-06-09 16 44 52" src="https://user-images.githubusercontent.com/87808547/172793736-b6ec2b6d-72b8-49e3-8112-0f02618e0b29.png">
+<img width="707" alt="トリガーを設定する" src="https://user-images.githubusercontent.com/87808547/172793736-b6ec2b6d-72b8-49e3-8112-0f02618e0b29.png">
 
 ### 7 Googleの認証
-
-<img width="707" alt="スクリーンショット 2022-06-09 16 44 52" src="https://user-images.githubusercontent.com/87808547/172793736-b6ec2b6d-72b8-49e3-8112-0f02618e0b29.png">人
-<img width="707" alt="スクリーンショット 2022-06-09 16 44 52" src="https://user-images.githubusercontent.com/87808547/172793736-b6ec2b6d-72b8-49e3-8112-0f02618e0b29.png">
+「保存」を押した際に、認証が求められます。
+<ol>
+  <li>先程まで、操作していたアカウント選択してください。</li>
+  <li>左下の「詳細：をクリックして、「無題のプロジェクト(安全ではないページ)に移動」。</li>
+  <li>右下の「許可」を押してください。</li>
+</ol>
+<img width="707" width="30px" alt="先程まで、操作していたアカウント選択してください。" src="https://user-images.githubusercontent.com/87808547/172796962-babd799f-6453-44e6-b963-90f9c11a5112.png">
+<img width="707" width="30px" alt="左下の「詳細：をクリックして、「無題のプロジェクト(安全ではないページ)に移動」。" src="https://user-images.githubusercontent.com/87808547/172796982-014bc1aa-c963-4bc1-83a9-eeae5f8c108e.png">
+<img width="707" width="30px" alt="右下の「許可」を押してください。" src="https://user-images.githubusercontent.com/87808547/172796996-3d92207b-dace-4057-8fa2-e0377e4cebdc.png">
