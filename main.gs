@@ -17,10 +17,10 @@ function getForm(e) {
   var contents = "\n";
 
   // 質問数を取得
-  var sizen = formResponses.size;
+  var size = formResponses.length;
  
   // 項目を繰り返す
-  for (var i = 0; i < formResponses.size; i++) {
+  for (var i = 0; i < size; i++) {
 
     // 質問等を取得
     var itemResponse = formResponses[i];
